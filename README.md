@@ -1,6 +1,6 @@
 # Terraform_ELB_Asg
-Using Terraform to bulid an IaC
-create various AWS resources using Terraform
+Used Terraform to bulid an IaC
+created various AWS resources 
 VPC
 Subnets
 Internet gateway
